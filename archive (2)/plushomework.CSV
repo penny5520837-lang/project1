@@ -1,0 +1,18 @@
+﻿=== 【題目一】女性與男性的教育平均對比 ===
+Gender,Education_Level
+Female,1.46
+Male,1.49
+
+=== 【題目二】城鄉 ✕ 心理健康 (GDS憂鬱指數) 交叉統計 ===
+Region,Gender,GDS_Score
+Rural,Female,4.97
+Rural,Male,4.93
+Urban,Female,5.28
+Urban,Male,4.92
+
+=== 【題目三】生活習慣 (菸酒) ✕ 睡眠品質 交叉統計 ===
+Smoking_Status,Alcohol_Use,Sleep_Quality_Score
+No,No,2.86
+No,Yes,3.0
+Yes,No,2.94
+Yes,Yes,2.95
